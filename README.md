@@ -3,7 +3,7 @@
 
 # Overall
 <div align=center>
-<img src="asset/main structure.png">
+<img src="main structure.png">
 </div>
 
 # Dataset
